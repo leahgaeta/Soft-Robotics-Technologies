@@ -12,7 +12,7 @@ This repo includes everything needed to build a capacitive sensing sock with a l
 - [Capacitive sensor with the sock]()
 - [Laminar jamming structure]()
 - [Arduino hook-up]()
-- [Arduino code]()
+- [Arduino code](https://github.com/leahgaeta/Soft-Robotics-Technologies/blob/main/ME568_Final_Project.ino)
 - [Measuring ankle plantar flexion]()
 - [Validation of functionality]()
 
