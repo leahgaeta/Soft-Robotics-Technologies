@@ -9,7 +9,7 @@ This repo includes everything needed to build a capacitive sensing sock with a l
 - [Laminar jamming mechanism](https://github.com/leahgaeta/Soft-Robotics-Technologies/raw/main/LJ_Materials.pdf)
 
 **Procedure:**
-- [Capacitive sensor fabrication]()
+- [Capacitive sensor fabrication](https://github.com/leahgaeta/Soft-Robotics-Technologies/raw/main/CapSensorFabrication.pdf)
 - [Capacitive sensor with the sock]()
 - [Laminar jamming structure]()
 - [Arduino hook-up]()
