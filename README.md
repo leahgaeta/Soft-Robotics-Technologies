@@ -2,10 +2,9 @@
 This repo includes everything needed to build a capacitive sensing sock with a laminar jamming stiffening mechanism to correct and stabilize ankle movement, as well as videos created for my Soft Robotic Technologies course taught by [Professor Tommaso Ranzani](https://www.bu.edu/eng/profile/tommaso-ranzini-phd/) at Boston University (ME 568).
 
 ### A Capacitive-Sensing Sock with Laminar Jamming Stiffening to Correct & Stabilize Over-Plantar Flexion at the Ankle
-**Materials:**
+**Materials for Fabrication & Testing:**
 - [Capacitive-sensing sock]()
 - [Laminar jamming mechanism]()
-- [Testing materials]()
 
 **Procedure:**
 - [Capacitive sensor fabrication]()
