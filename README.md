@@ -3,8 +3,8 @@ This repo includes everything needed to build a capacitive sensing sock with a l
 
 ### A Capacitive-Sensing Sock with Laminar Jamming Stiffening to Correct & Stabilize Over-Plantar Flexion at the Ankle
 **Materials for Fabrication & Testing:**
-- [Capacitive-sensing sock]()
-- [Laminar jamming mechanism]()
+- [Capacitive-sensing sock](https://github.com/leahgaeta/Soft-Robotics-Technologies/raw/main/CapSenseSock.pdf)
+- [Laminar jamming mechanism](https://github.com/leahgaeta/Soft-Robotics-Technologies/raw/main/LJ_Materials.pdf)
 
 **Procedure:**
 - [Capacitive sensor fabrication]()
@@ -12,7 +12,7 @@ This repo includes everything needed to build a capacitive sensing sock with a l
 - [Laminar jamming structure]()
 - [Arduino hook-up]()
 - [Arduino code](https://github.com/leahgaeta/Soft-Robotics-Technologies/blob/main/ME568_Final_Project.ino)
-- [Measuring ankle plantar flexion]()
+- [Measuring ankle plantar flexion](https://github.com/leahgaeta/Soft-Robotics-Technologies/raw/main/AngleMeasure.pdf)
 - [Validation of functionality]()
 
 **Videos:**
