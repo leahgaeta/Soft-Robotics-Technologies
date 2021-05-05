@@ -5,6 +5,7 @@ This repo includes everything needed to build a capacitive sensing sock with a l
 **Materials for Fabrication & Testing:**
 - [Capacitive-sensing sock](https://github.com/leahgaeta/Soft-Robotics-Technologies/raw/main/CapSenseSock.pdf)
   - [Mold .stl file](https://github.com/leahgaeta/Soft-Robotics-Technologies/blob/main/CapSenseMold.stl) - recommend preheating the build plate to improve adhesion and prevent thermal warping; also recommend print settings of 160 microns layer height, 40 mm/s print speed, 15% cubic infill.
+  - [Mold drawing](https://github.com/leahgaeta/Soft-Robotics-Technologies/raw/main/CapSensorDrawing.pdf) - for overall dimensions if fabricating the mold without a 3D printer.
 - [Laminar jamming mechanism](https://github.com/leahgaeta/Soft-Robotics-Technologies/raw/main/LJ_Materials.pdf)
 
 **Procedure:**
